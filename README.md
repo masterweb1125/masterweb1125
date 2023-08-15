@@ -1,7 +1,7 @@
 
 
 
-<div size='20px' align="center"> Hi! My name is David. Thank You for taking the time to view my GitHub Profile
+<div size='20px' align="center"> Hi! Thank You for taking the time to view my GitHub Profile
 </div>
 
 <div align="center">
