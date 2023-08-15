@@ -14,7 +14,7 @@
   
 - 🌱 Three.js, Babylon.js and React Three Fiber are my core skills                                
   
-- 💬 Ask me about React, JavaScript, TypeScript and WebGL
+- 💬 Ask me about React, Flutter, JavaScript, TypeScript and WebGL
 
   
   
