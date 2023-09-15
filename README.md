@@ -16,6 +16,8 @@
   
 - 💬 Ask me about React, Flutter, JavaScript, TypeScript and WebGL
 
+- Contact me masterweb1125@gmail.com
+
   
   
 <h3 align="left">Languages and Tools:</h3>
