@@ -10,11 +10,11 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working as a FrontEnd Developer
+- 🔭 I’m currently working as a Full Stack Developer
   
-- 🌱 Three.js, Babylon.js and React Three Fiber are my core skills                                
+- 🌱 AI, Three.js, Babylon.js and React Three Fiber are my core skills                                
   
-- 💬 Ask me about React, Flutter, JavaScript, TypeScript and WebGL
+- 💬 Ask me about AI, React, Flutter, JavaScript, TypeScript and WebGL
 
 - Contact me masterweb1125@gmail.com
 
