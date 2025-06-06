@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working as a Full Stack Developer
   
-- 🌱 AI, Three.js, Babylon.js and React Three Fiber are my core skills                                
+- 🌱 AI, Three.js, Babylon.js and React Three Fiber, R are my core skills                                
   
-- 💬 Ask me about AI, React, Flutter, JavaScript, TypeScript and WebGL
+- 💬 Ask me about AI, React, Flutter, JavaScript, TypeScript, R, Python and WebGL
 
 - Contact me masterweb1125@gmail.com
 
